@@ -5,19 +5,19 @@ This repository hosts a pipeline for transforming **PDF files into audio podcast
 ---
 
 ## 📑 Table of Contents
-1. [📋 Project Overview](#project-overview)
-2. [✨ Features](#features)
-3. [🔧 Installation](#installation)
-4. [🔄 Workflow](#workflow)
-5. [📝 Detailed Steps](#detailed-steps)
-    - [📕 Step 1: PDF Text Extraction](#step-1-pdf-text-extraction)
-    - [✍️ Step 2: Podcast Script Generation](#step-2-podcast-script-generation)
-    - [🛠️ Step 3: Transcript Refinement](#step-3-transcript-refinement)
-    - [🎙️ Step 4: Audio Generation](#step-4-audio-generation)
-6. [📋 Requirements](#requirements)
-7. [🚀 Usage](#usage)
-8. [📂 File Structure](#file-structure)
-9. [🙏 Acknowledgments](#acknowledgments)
+1. [📋 Project Overview](#-project-overview)
+2. [✨ Features](#-features)
+3. [🔧 Installation](#-installation)
+4. [🔄 Workflow](#-workflow)
+5. [📝 Detailed Steps](#-detailed-steps)
+    - [📕 Step 1: PDF Text Extraction](#-step-1-pdf-text-extraction)
+    - [✍️ Step 2: Podcast Script Generation](#-step-2-podcast-script-generation)
+    - [🛠️ Step 3: Transcript Refinement](#-step-3-transcript-refinement)
+    - [🎙️ Step 4: Audio Generation](#-step-4-audio-generation)
+6. [📋 Requirements](#-requirements)
+7. [🚀 Usage](#-usage)
+8. [📂 File Structure](#-file-structure)
+9. [🙏 Acknowledgments](#-acknowledgments)
 
 ---
 
